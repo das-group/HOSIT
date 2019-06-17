@@ -165,7 +165,7 @@ The code has to be entered in an async environment:
     await controller.scrollToBottom();
     ~~~
 
-The test script is located at [test/example.js](test/example.js).
+The test script is located at [examples/example.js](examples/example.js).
 
 Remember to use `await` in most cases due to the asynchronous functions provided
 by the Puppeteer API.
@@ -273,7 +273,7 @@ geolocation:
     ~~~
 
 The test script with the example is located at
-[test/example-new-querygenerator.js](test/example-new-querygenerator.js)
+[examples/example-new-querygenerator.js](examples/example-new-querygenerator.js)
 
 ### Database logging
 
