@@ -1,0 +1,33 @@
+{
+  "name": "hosit-browser",
+  "version": "1.0.0",
+  "private": false,
+  "description": "Node.js Framework to imitate human internet browsing behavior on Chrome",
+  "main": "index.js",
+  "keywords": [
+    "headless",
+    "browser",
+    "chromium",
+    "chrome",
+    "framework",
+    "puppeteer",
+    "addon"
+  ],
+  "directories": {
+    "doc": "docs",
+    "example": "test"
+  },
+  "homepage": "https://github.com/das-th-koeln/hosit",
+  "repository": "github:das-th-koeln/hosit",
+  "bugs": {
+    "url" : "https://github.com/das-th-koeln/hosit/issues"
+  },
+  "dependencies": {
+    "feedparser": ">=2.2.4",
+    "puppeteer": ">=0.13.0",
+    "request": ">=2.83.0",
+    "seedrandom": ">=2.4.3"
+  },
+  "author": "Stephan Wiefling, TH Köln - University of Applied Sciences",
+  "license": "MIT"
+}
