@@ -15,7 +15,7 @@ the Wild], we used HOSIT to find out
 more about the Risk-based Authentication practices of big online services
 (which were kept secret by the companies).
 
-Further details about HOSIT and how you can use it for your own studies are presented in our publication [Even Turing Should Sometimes Not Be Able To Tell: Mimicking Humanoid Usage Behavior for Exploratory Studies of Online Services].
+Further details about HOSIT and how you can use it for your own studies are presented in our publication [Even Turing Should Sometimes Not Be Able To Tell: Mimicking Humanoid Usage Behavior for Exploratory Studies of Online Services].
 
 ![Example HOSIT script](./docs/example-script.gif "Example HOSIT script")
 
@@ -303,7 +303,7 @@ to improve this framework.
 
 We provide further details about HOSIT in the following publication. There you can also find information on how to use HOSIT for your own research studies. Please cite the paper when using HOSIT in your own studies:
 
-[Even Turing Should Sometimes Not Be Able To Tell: Mimicking Humanoid Usage Behavior for Exploratory Studies of Online Services] (2019)<br>
+[Even Turing Should Sometimes Not Be Able To Tell: Mimicking Humanoid Usage Behavior for Exploratory Studies of Online Services] (2019)<br>
 _Stephan Wiefling, Nils Gruschka, and Luigi Lo Iacono_.<br>
 _24th Nordic Conference on Secure IT Systems (NordSec 2019)_, Aalborg, Denmark.
 
@@ -359,7 +359,7 @@ _34th IFIP TC-11 International Conference on Information Security and Privacy Pr
 
 This project is licensed under the MIT License ([LICENSE](LICENSE)).
 
-[Even Turing Should Sometimes Not Be Able To Tell: Mimicking Humanoid Usage Behavior for Exploratory Studies of Online Services]: https://nbn-resolving.org/urn:nbn:de:hbz:832-epub4-14221
+[Even Turing Should Sometimes Not Be Able To Tell: Mimicking Humanoid Usage Behavior for Exploratory Studies of Online Services]: https://nbn-resolving.org/urn:nbn:de:hbz:832-epub4-14221
 [Is This Really You? An Empirical Study on Risk-Based Authentication Applied in the Wild]: https://nbn-resolving.org/urn:nbn:de:hbz:832-epub4-13694
 [Puppeteer]: https://github.com/GoogleChrome/puppeteer
 [Headless Chrome test]: https://intoli.com/blog/not-possible-to-block-chrome-headless/chrome-headless-test.html
